@@ -44,9 +44,6 @@ This project explores IMDb movie data using Python to identify trends in movie r
 
 4. Run the notebook cells in order.
 
-## Key Findings
-Add your actual findings and observations after completing the analysis.
-
 ## Conclusion
 This project demonstrates the use of Python-based data analysis and visualization techniques to explore movie industry data and uncover meaningful patterns.
 
